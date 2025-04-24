@@ -1,2 +1,2 @@
-Code Inside: Dist
-Program: .Py
+Code Inside: Dist,
+Program is: .Py ;
